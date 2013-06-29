@@ -1,0 +1,14 @@
+
+#ignore thumbnails created by windows
+Thumbs.db
+.classpath
+.project
+.settings/
+target/
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
