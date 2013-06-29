@@ -1,0 +1,5 @@
+name: ExtensiveGates
+version: ${version}
+author: Chris K (Coaster3000 | Coaster4321)
+main: com.noxcraft.extgate.ExtensiveGates
+depend: [Vault]
